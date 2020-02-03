@@ -3,7 +3,8 @@
 
 > One paragraph statement about the project.
 
-![leetcode jpg](https://user-images.githubusercontent.com/46542515/73642353-a075f800-4682-11ea-81b7-2d0c75730125.png)
+
+![leetcode jpg](https://user-images.githubusercontent.com/46542515/73642691-33af2d80-4683-11ea-8527-f206b6bf430c.png)
 
 Additional description about the project and its features.
 
