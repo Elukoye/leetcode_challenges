@@ -30,6 +30,5 @@ def three_sum(nums)
   
       end
     end
-  
-    return result.uniq
+     return result.uniq
   end
