@@ -1,3 +1,4 @@
+#reference article :https://dev.to/rygelxvi/3sum-algorithm-499j
 #result = []
 #sort nums
 #num[i] + num[j] + num[k] = sum 
