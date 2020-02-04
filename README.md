@@ -18,7 +18,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - Github: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
