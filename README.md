@@ -12,17 +12,26 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**This is repository starts of with the difficulty level of easy on leetcode's problem section.**
+**The plan is to start out easy and increase the difficulty over time**
+**It is meant for reference , documentation and a learning material so feel free to fork or download and have a glimpse of how
+I solved the challenges.
+There is a spec folder which contains tests to the solved problem. All tests are done using RSPEC.
+To set up RSPEC SPEC FOLDER DO :
+ 1.rspec --init in your project folder
+ 2.navigate to spec and create a test file e.g name_of_file_spec.rb
+ 3.at the top of name_of_file_spec.rb require './name_of_file'
+ 4. run tests on terminal using either rspec command or rspec ./spec/name_of_file_spec.rb (to run one test)
+ **
 
 
 ## Authors
 
 👤 **Author**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/Elukoye)
+- Twitter: [@twitterhandle](https://twitter.com/Elukoye1)
+- Linkedin: [linkedin](https://linkedin.com/Emogene)
 
 
 ## 🤝 Contributing
