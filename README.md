@@ -1,7 +1,7 @@
-# leetcode_challenges
-# Project Name
+## leetcode_challenges
 
-> One paragraph statement about the project.
+
+
 
 
 ![leetcode jpg](https://user-images.githubusercontent.com/46542515/73642691-33af2d80-4683-11ea-8527-f206b6bf430c.png)
@@ -17,6 +17,7 @@ Additional description about the project and its features.
 **It is meant for reference , documentation and a learning material so feel free to fork or download and have a glimpse of how
 I solved the challenges.**
 **There is a spec folder which contains tests to the solved problem. All tests are done using RSPEC.**
+#
 _To set up RSPEC SPEC FOLDER DO :_
  1. rspec --init in your project folder
  1. navigate to spec and create a test file e.g name_of_file_spec.rb
