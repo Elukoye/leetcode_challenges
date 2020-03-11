@@ -19,10 +19,10 @@ I solved the challenges.**
 **There is a spec folder which contains tests to the solved problem. All tests are done using RSPEC.**
 #
 _To set up RSPEC SPEC FOLDER DO :_
- 1. rspec --init in your project folder
- 1. navigate to spec and create a test file e.g name_of_file_spec.rb
- 1. at the top of name_of_file_spec.rb require './name_of_file'
- 1. run tests on terminal using either rspec command or rspec ./spec/name_of_file_spec.rb (to run one test)**
+ 1. type rspec --init in your terminal,ensure you are in your project folder
+ 1. navigate to the created spec in the file directory and create a test file e.g name_of_file_spec.rb
+ 1. open the test file and at the top of write: require './name_of_file'
+ 1. to run tests on terminal type either the rspec command(runs all test) or rspec ./spec/name_of_file_spec.rb (to run a particular test)**
  
 
 
