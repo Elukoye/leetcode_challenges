@@ -1,3 +1,6 @@
+# https://dev.to/rygelxvi/reverse-an-integer-code-challenge-5g66
+# https://www.youtube.com/watch?v=ZQQoHr-2stA&t=606s
+
 def reverse(x)
     #reverse int
     reversed_int = x.to_s.reverse.to_i
