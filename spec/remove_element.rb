@@ -8,4 +8,13 @@ RSpec.describe '#remove_element' do
         remove_val(nums,val)
        end.to output("5\n").to_stdout
     end
+
+    it 'returns 0 when given an empty array' do
+        nums = []
+        val = 9
+        expect do 
+            remove_val(nums,val)
+        end.to output("0\n0\n").to_stdout
+    end
+
 end
