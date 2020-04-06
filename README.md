@@ -1,15 +1,5 @@
 ## leetcode_challenges
-
-
-
-
-
-![leetcode jpg](https://user-images.githubusercontent.com/46542515/73642691-33af2d80-4683-11ea-8527-f206b6bf430c.png)
-
-Additional description about the project and its features.
-
-# Challenges
-My coding solutions in Ruby including RSpec tests for each solution.
+Coding solutions in Ruby including RSpec tests for each solution.
 
 ## What are included?
 
