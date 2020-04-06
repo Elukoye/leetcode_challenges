@@ -13,12 +13,12 @@ My coding solutions in Ruby including RSpec tests for each solution.
 
 ## What are included?
 
-| #   | Description                                                                                                                    | Solution                                                                           | Performance      |
+| #   | Description                                                                                                                    | Solution                                                                           | Tag      |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------|
-| 1   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                               | [solutiona & explanation in Java](https://www.youtube.com/watch?v=gWqbmAS3uxg)                                           
-| 2   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                               | [solution and explanation in python](https://www.youtube.com/watch?v=MUUc4GFvlL0)                             
-| 3   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [solution in python](https://www.youtube.com/watch?v=OVlw05VBr70&t=712s)  
-| 4   | [Valid Parenthisis](https://leetcode.com/problems/valid-parentheses/)                                       | [video solution](https://www.youtube.com/watch?v=CCyEXcNamC4)            
+| 1   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                               | [solutiona & explanation in Java](https://www.youtube.com/watch?v=gWqbmAS3uxg)  |string|                                         
+| 2   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                               | [solution and explanation in python](https://www.youtube.com/watch?v=MUUc4GFvlL0)   |string|                          
+| 3   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [solution in python](https://www.youtube.com/watch?v=OVlw05VBr70&t=712s)  |string|
+| 4   | [Valid Parenthisis](https://leetcode.com/problems/valid-parentheses/)                                       | [video solution](https://www.youtube.com/watch?v=CCyEXcNamC4)        |string|    
 | 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                   | [LongestPalindromicSubstring.java](src/main/java/LongestPalindromicSubstring.java) | Beat **86.88%**  |
 | 6   | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                           | [ZigZagConversion.java](src/main/java/ZigZagConversion.java)                       | Beat **95.76%**  |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                                                               | [ReverseInteger.java](src/main/java/ReverseInteger.java)                           | Beat **100%**    |
