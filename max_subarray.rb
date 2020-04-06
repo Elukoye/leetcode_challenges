@@ -9,3 +9,5 @@
 #store it in variable max_2 
 # end the while loop
 # return sum of max_1 and max_2 
+
+
