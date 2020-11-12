@@ -1,4 +1,4 @@
-## leetcode_challenges
+## A list of leetcode challenges 
 Coding solutions in Ruby including RSpec tests for each solution.
 
 ## What are included?
