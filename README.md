@@ -51,9 +51,9 @@ _To set up RSPEC SPEC FOLDER DO :_
 
 👤 **Author**
 
-- Github: [@githubhandle](https://github.com/Elukoye)
-- Twitter: [@twitterhandle](https://twitter.com/Elukoye1)
-- Linkedin: [linkedin](https://linkedin.com/Emogene)
+- Github: [@Elukoye](https://github.com/Elukoye)
+- Twitter: [@Elukoye1](https://twitter.com/Elukoye1)
+- Medium: [@lukoyedith](https://medium.com/@lukoyedith)
 
 
 ## 🤝 Contributing
