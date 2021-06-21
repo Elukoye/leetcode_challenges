@@ -6,7 +6,7 @@ Coding solutions in Ruby including RSpec tests for each solution.
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| [Reverse Linked List] | [Video explanation](https://www.youtube.com/watch?v=O0By4Zq0OFc)|
+| 1.Reverse Linked List | [Video explanation](https://www.youtube.com/watch?v=O0By4Zq0OFc)|
 | Content Cell  | Content Cell  |
 ## Getting Started
 
