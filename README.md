@@ -7,7 +7,7 @@ Coding solutions in Ruby including RSpec tests for each solution.
 | First Header  | Second Header |
 | ------------- | ------------- |
 | 1.Reverse Linked List | [Video explanation](https://www.youtube.com/watch?v=O0By4Zq0OFc)|
-| Content Cell  | Content Cell  |
+| 2.Remove Duplicates from Sorted Array| [Video explanation](https://www.youtube.com/watch?v=rlfsnRY0S9k&t=499s)  |
 ## Getting Started
 
 **This is repository starts of with the difficulty level of easy on leetcode's problem section.**
