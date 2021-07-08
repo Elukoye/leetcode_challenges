@@ -8,6 +8,7 @@ Coding solutions in Ruby including RSpec tests for each solution.
 | ------------- | ------------- |
 | 1.Reverse Linked List | [Video explanation](https://www.youtube.com/watch?v=O0By4Zq0OFc)|
 | 2.Remove Duplicates from Sorted Array| [Video explanation](https://www.youtube.com/watch?v=rlfsnRY0S9k&t=499s)  |
+| 3.Best Time to Buy and Sell Stock II| [Video explanation](https://www.youtube.com/watch?v=Q-8JkdUliVM)  |
 ## Getting Started
 
 **This is repository starts of with the difficulty level of easy on leetcode's problem section.**
