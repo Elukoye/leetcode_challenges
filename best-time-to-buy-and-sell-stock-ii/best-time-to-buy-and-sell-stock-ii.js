@@ -15,15 +15,5 @@ var maxProfit = function(prices) {
         }
     }
      return profit;
-    
-    if(prices.sort((a,b) => a - b) == true){
-        result = prices[0] + prices[prices.length - 1]
-        return result;
-    }
-    
-    if(prices.reverse() == prices){
-       return 0;
-    }
-    
  
 };
