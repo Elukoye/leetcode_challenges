@@ -1,29 +1,18 @@
-## A list of leetcode challenges 
-Coding solutions in Ruby including RSpec tests for each solution.
+## Top Interview Questions
+### Easy Collection
 
-## What are included?
+This is LeetCode's official curated list of Top classic interview questions.
 
+## Table Of Content
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | 1.Reverse Linked List | [Video explanation](https://www.youtube.com/watch?v=O0By4Zq0OFc)|
 | 2.Remove Duplicates from Sorted Array| [Video explanation](https://www.youtube.com/watch?v=rlfsnRY0S9k&t=499s)  |
 | 3.Best Time to Buy and Sell Stock II| [Video explanation](https://www.youtube.com/watch?v=Q-8JkdUliVM)  |
-## Getting Started
 
-**This is repository starts of with the difficulty level of easy on leetcode's problem section.**
-**The plan is to start out easy and increase the difficulty over time**
-**It is meant for reference , documentation and a learning material so feel free to fork or download and have a glimpse of how
-I solved the challenges.**
-**There is a spec folder which contains tests to the solved problem. All tests are done using RSPEC.**
-#
-_To set up RSPEC SPEC FOLDER DO :_
- 1. type rspec --init in your terminal,ensure you are in your project folder
- 1. navigate to the created spec in the file directory and create a test file e.g name_of_file_spec.rb
- 1. open the test file and at the top of write: require './name_of_file'
- 1. to run tests on terminal type either the rspec command(runs all test) or rspec ./spec/name_of_file_spec.rb (to run a particular test)**
- 
-
+## Language
+JavaScript or Ruby.
 
 ## Authors
 
