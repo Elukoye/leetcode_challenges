@@ -5,8 +5,8 @@ This is LeetCode's official curated list of Top classic interview questions.
 
 ## Table Of Content
 
-| First Header  | Second Header | Second Header |
-| ------------- | ------------- | --------------|
+| Array Problem  | Video Solution | Reading solution |
+| -------------- | -------------- | -----------------|
 | 1.Reverse Linked List | [Video explanation](https://www.youtube.com/watch?v=O0By4Zq0OFc)|
 | 2.Remove Duplicates from Sorted Array| [Video explanation](https://www.youtube.com/watch?v=rlfsnRY0S9k&t=499s)  |
 | 3.Best Time to Buy and Sell Stock II| [Video explanation](https://www.youtube.com/watch?v=Q-8JkdUliVM)  |
