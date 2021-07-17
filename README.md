@@ -12,7 +12,8 @@ This is LeetCode's official curated list of Top classic interview questions.
 | 3.Best Time to Buy and Sell Stock II| [Video explanation](https://www.youtube.com/watch?v=Q-8JkdUliVM)  |
 | 4.Rotate | [Video explanation](https://www.youtube.com/watch?v=umqL2CyEywM)|
 | 5.Contains Duplicate | [Video explanation](https://www.youtube.com/watch?v=umqL2CyEywM)| [Article](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate)
-| 6.Single Number | [Video explanation](https://www.youtube.com/watch?v=krgK0UlfNYY)| [Article](https://dev.to/akhilpokle/single-number-166f)
+| 6.Single Number | [Video explanation](https://www.youtube.com/watch?v=krgK0UlfNYY)| [Article](https://dev.to/akhilpokle/single-number-166f))
+| 7.Plus One| [Video explanation](https://www.youtube.com/watch?v=Llk4N7ERILg)| [Article](https://medium.com/@zohaibshahzadTO/the-walkthrough-leetcode-66-dc33b5fe0641))
 
 ## Language
 JavaScript or Ruby.
