@@ -10,8 +10,8 @@ var twoSum = function(nums, target) {
         let curr_number = nums[i];
         let diff = target - nums[i];
         if(differences.has(diff)){
-            indicies.push(differences.get(diff));
-            indicies.push(i);
+            indicies[0] = differences.get(diff);
+            indicies[1] = i;
             return indicies;
         }else{
             differences.set(curr_number,i);
