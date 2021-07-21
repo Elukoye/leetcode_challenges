@@ -15,6 +15,8 @@ This is LeetCode's official curated list of Top classic interview questions.
 | 6.Single Number | [Video explanation](https://www.youtube.com/watch?v=krgK0UlfNYY)| [Article](https://dev.to/akhilpokle/single-number-166f)
 | 7.Plus One| [Video explanation](https://www.youtube.com/watch?v=Llk4N7ERILg)| [Article](https://medium.com/@zohaibshahzadTO/the-walkthrough-leetcode-66-dc33b5fe0641)
 | 8.Move Zeroes| [Video explanation](https://www.youtube.com/watch?v=0rPuILjoVsg)| 
+| 9.Two Sum | [Video explanation](https://www.youtube.com/watch?v=U8B984M1VcU)| [Article](https://leetcode.com/problems/two-sum/discuss/231428/Javascript-the-3-sample-solutions-with-notes)
+|  | | [Article](https://www.educative.io/courses/grokking-the-coding-interview/xog6q15W9GP)
 
 ## Language
 JavaScript or Ruby.
