@@ -17,6 +17,7 @@ This is LeetCode's official curated list of Top classic interview questions.
 | 8.Move Zeroes| [Video explanation](https://www.youtube.com/watch?v=0rPuILjoVsg)| 
 | 9.Two Sum | [Video explanation](https://www.youtube.com/watch?v=U8B984M1VcU)| [Article](https://leetcode.com/problems/two-sum/discuss/231428/Javascript-the-3-sample-solutions-with-notes)
 |  | | [Article](https://www.educative.io/courses/grokking-the-coding-interview/xog6q15W9GP)
+| 10. Valid Sudoku | [Video explanation](https://www.youtube.com/watch?v=l32a_J7h6vI)| [Article](https://leetcode.com/problems/valid-sudoku/discuss/476369/Javascript-Solution-(beats-100)-with-explanation-(real-explanations))
 
 ## Language
 JavaScript or Ruby.
